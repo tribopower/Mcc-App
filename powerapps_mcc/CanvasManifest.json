@@ -11,7 +11,7 @@
   },
   "Properties": {
     "AppCreationSource": "AppFromScratch",
-    "AppDescription": "",
+    "AppDescription": "test",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
@@ -98,7 +98,7 @@
       "usenonblockingonstartrule": true,
       "userdefinedfunctions": false,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -117,7 +117,7 @@
     "Id": "36297d40-716a-453e-bf28-887509543e00",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "MCC App test",
     "OriginatingVersion": "1.337",
     "ParserErrorCount": 0,
